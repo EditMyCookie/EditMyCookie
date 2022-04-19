@@ -1,16 +1,18 @@
-### Hi there 👋
+EditMyCookie
+========================
 
-<!--
-**EditMyCookie/EditMyCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Description
+--------------
 
-Here are some ideas to get you started:
+EditMyCookie is a cookie manager. You can add, delete, edit, search, protect, and block cookies!
+Inspired by the lack of good cookie managers in Google Chrome, I developed this small, simple, and extremely useful extension that allows you to do anything you'll ever need to do to cookies!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Delete any cookie
+* Edit any cookie
+* Add a new cookie
+* Search a cookie
+* Protect a cookie (read-only)
+* Block cookies (cookie filter)
+* Export cookies in JSON, Netscape cookie file (perfect for wget and curl), Perl::LPW
+* Import cookies in JSON
+* Limit the maximum expiration date of any cookie
